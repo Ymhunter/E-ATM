@@ -20,7 +20,7 @@ A simple Electronic ATM emulator that provides essential banking functionalities
 - Log and display previous withdrawal transactions.
 
 
-### 5. **Security**
+### 4. **Security**
 - Card locking mechanism after multiple failed PIN attempts.
 - Encrypted storage of PIN and account details (optional enhancement).
 - Logging for auditing purposes.
