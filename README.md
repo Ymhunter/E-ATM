@@ -33,3 +33,7 @@ A simple Electronic ATM emulator that provides essential banking functionalities
    ```bash
    git clone https://github.com/yourusername/E-ATM.git
    cd E-ATM
+
+
+https://github.com/user-attachments/assets/85b4a255-094c-4475-b095-1c0d93150b5f
+
