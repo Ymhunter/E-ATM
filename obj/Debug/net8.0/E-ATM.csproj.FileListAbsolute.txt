@@ -1,0 +1,15 @@
+C:\Users\alans\Documents\GitHub\E-ATM\bin\Debug\net8.0\E-ATM.exe
+C:\Users\alans\Documents\GitHub\E-ATM\bin\Debug\net8.0\E-ATM.deps.json
+C:\Users\alans\Documents\GitHub\E-ATM\bin\Debug\net8.0\E-ATM.runtimeconfig.json
+C:\Users\alans\Documents\GitHub\E-ATM\bin\Debug\net8.0\E-ATM.dll
+C:\Users\alans\Documents\GitHub\E-ATM\bin\Debug\net8.0\E-ATM.pdb
+C:\Users\alans\Documents\GitHub\E-ATM\obj\Debug\net8.0\E-ATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alans\Documents\GitHub\E-ATM\obj\Debug\net8.0\E-ATM.AssemblyInfoInputs.cache
+C:\Users\alans\Documents\GitHub\E-ATM\obj\Debug\net8.0\E-ATM.AssemblyInfo.cs
+C:\Users\alans\Documents\GitHub\E-ATM\obj\Debug\net8.0\E-ATM.csproj.CoreCompileInputs.cache
+C:\Users\alans\Documents\GitHub\E-ATM\obj\Debug\net8.0\E-ATM.sourcelink.json
+C:\Users\alans\Documents\GitHub\E-ATM\obj\Debug\net8.0\E-ATM.dll
+C:\Users\alans\Documents\GitHub\E-ATM\obj\Debug\net8.0\refint\E-ATM.dll
+C:\Users\alans\Documents\GitHub\E-ATM\obj\Debug\net8.0\E-ATM.pdb
+C:\Users\alans\Documents\GitHub\E-ATM\obj\Debug\net8.0\E-ATM.genruntimeconfig.cache
+C:\Users\alans\Documents\GitHub\E-ATM\obj\Debug\net8.0\ref\E-ATM.dll

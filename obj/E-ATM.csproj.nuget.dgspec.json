@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alans\\Documents\\OOP-Grund\\E-ATM\\E-ATM.csproj": {}
+    "C:\\Users\\alans\\Documents\\GitHub\\E-ATM\\E-ATM.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alans\\Documents\\OOP-Grund\\E-ATM\\E-ATM.csproj": {
+    "C:\\Users\\alans\\Documents\\GitHub\\E-ATM\\E-ATM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alans\\Documents\\OOP-Grund\\E-ATM\\E-ATM.csproj",
+        "projectUniqueName": "C:\\Users\\alans\\Documents\\GitHub\\E-ATM\\E-ATM.csproj",
         "projectName": "E-ATM",
-        "projectPath": "C:\\Users\\alans\\Documents\\OOP-Grund\\E-ATM\\E-ATM.csproj",
+        "projectPath": "C:\\Users\\alans\\Documents\\GitHub\\E-ATM\\E-ATM.csproj",
         "packagesPath": "C:\\Users\\alans\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alans\\Documents\\OOP-Grund\\E-ATM\\obj\\",
+        "outputPath": "C:\\Users\\alans\\Documents\\GitHub\\E-ATM\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\alans\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\alans\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

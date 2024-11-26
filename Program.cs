@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace EATMNamespace
+﻿namespace EATMNamespace
 {
     class Program
     {
